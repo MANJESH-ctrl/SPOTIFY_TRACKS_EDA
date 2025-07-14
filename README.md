@@ -146,7 +146,7 @@ Below are ten detailed insights with corresponding plots that should be saved fr
 📌 **Embed Bar Plot:**
 
 
-![Key Distribution](images/key_distribution_bar.png)
+![Key Distribution](images/key_distribution_plot.png)
 
 
 ---
