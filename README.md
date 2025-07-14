@@ -19,7 +19,6 @@ This project presents a deep exploratory data analysis (EDA) of a Spotify music 
 
 ## 📈 Insights from Features
 
-Below are ten detailed insights with corresponding plots that should be saved from the Colab notebook and embedded in the GitHub repository’s `images/` folder.
 
 ### 1. 🎵 Most Popular Genres (Top 50)
 
@@ -55,7 +54,7 @@ Below are ten detailed insights with corresponding plots that should be saved fr
 📌 **Embed Pie Chart:**
 
 
-![Explicit Content Distribution](images/distribution of Explicit Tracks.png)
+![Explicit Content Distribution](images/distribution_of_Explicit_Tracks.png)
 
 
 ---
@@ -133,7 +132,7 @@ Below are ten detailed insights with corresponding plots that should be saved fr
 📌 **Embed Bar Plot:**
 
 
-![Time Signature Distribution](images/Distribution of Time Signatures.png)
+![Time Signature Distribution](images/Distribution_of_Time_Signatures.png)
 
 
 ---
