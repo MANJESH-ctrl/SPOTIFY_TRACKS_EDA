@@ -41,7 +41,7 @@ This project presents a deep exploratory data analysis (EDA) of a Spotify music 
 📌 **Embed Scatter Plot:**
 
 
-![Popularity vs Duration Scatter](images/popularity-duration.png)
+![Popularity vs Duration Scatter](images/popularity_duration.png)
 
 
 ---
@@ -67,7 +67,7 @@ This project presents a deep exploratory data analysis (EDA) of a Spotify music 
 📌 **Embed Scatter Plot:**
 
 
-![Energy vs Loudness](images/correlation_energy_loudness.png)
+![Energy vs Loudness](images/correlation_loudness_energy.png)
 
 
 ---
@@ -106,7 +106,7 @@ This project presents a deep exploratory data analysis (EDA) of a Spotify music 
 📌 **Embed Bar Plot:**
 
 
-![Acousticness Binned Distribution](images/acousticnessbins.png)
+![Acousticness Binned Distribution](images/acousticbins.png)
 
 
 ---
