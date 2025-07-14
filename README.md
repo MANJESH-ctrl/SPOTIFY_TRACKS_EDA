@@ -54,7 +54,7 @@ This project presents a deep exploratory data analysis (EDA) of a Spotify music 
 📌 **Embed Pie Chart:**
 
 
-![Explicit Content Distribution](images/distribution_of_Explicit_Tracks.png)
+![Explicit Content Distribution](images/Distribution_of_Explicit_Tracks.png)
 
 
 ---
@@ -93,7 +93,7 @@ This project presents a deep exploratory data analysis (EDA) of a Spotify music 
 📌 **Embed Bar Plot:**
 
 
-![Top Genres by Speechiness](images/top_10_genre_speechiness.png)
+![Top Genres by Speechiness](images/top_10_genres_speechiness.png)
 
 
 ---
@@ -106,7 +106,7 @@ This project presents a deep exploratory data analysis (EDA) of a Spotify music 
 📌 **Embed Bar Plot:**
 
 
-![Acousticness Binned Distribution](images/acousticbins.png)
+![Acousticness Binned Distribution](images/acousticsbins.png)
 
 
 ---
